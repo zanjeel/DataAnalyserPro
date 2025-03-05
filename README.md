@@ -3,6 +3,13 @@
 A powerful web-based Excel file analyzer that provides instant data analysis and beautiful visualizations. Process your Excel files directly in the browser with no server uploads required.
 
 [![Live Demo](demo-photo.png)](https://data-analyser-pro.netlify.app/)
+*Landing page with drag-and-drop Excel file upload*
+
+[![Data Analysis View](demo-2.png)](https://data-analyser-pro.netlify.app/)
+*Interactive data analysis dashboard with column statistics and summary view*
+
+[![Visualization Features](demo-3.png)](https://data-analyser-pro.netlify.app/)
+*Dynamic charts and visualizations for both categorical and numerical data*
 
 [Try Live Demo](https://data-analyser-pro.netlify.app/)
 
